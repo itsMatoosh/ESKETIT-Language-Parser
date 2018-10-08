@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Esketit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Esketit_jar</output-path>
+    <root id="archive" name="Esketit.jar">
+      <element id="module-output" name="Esketit" />
+    </root>
+  </artifact>
+</component>
